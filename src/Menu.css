@@ -1,0 +1,13 @@
+.menu {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-left: 10px;
+}
